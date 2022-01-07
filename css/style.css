@@ -6,10 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: #388ea3;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", Georgia, serif;
   font-size: 100%;
 }
 
@@ -25,12 +25,12 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: "Times New Roman", Georgia, serif;
+  color: rgb(199, 73, 73);
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3.69em;
   margin-bottom: 0;
 }
 
@@ -46,8 +46,8 @@ h3 {
 }
 
 img {
-  max-width: 100%;
-  width: 100%;
+  max-width: 80%;
+  width: 80%;
   height: auto;
 }
 
